@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9196e93194325474bbc5f0e983801546, type: 3}
+  m_Name: Battle Parameter
+  m_EditorClassIdentifier: 
+  Data:
+    HP: 40
+    MaxHP: 40
+    MP: 0
+    MaxMP: 0
+    power: 3
+    technique: 1
+    prayer: 2
+    agility: 1
+    luck: 4
+    Attackpower: 0
+    Defensepower: 0
+    Level: 1
+    Exp: 0
+    Money: 0
+    AttackWeapon: {fileID: 0}
+    DefenseWeapon: {fileID: 0}
+    Items: []
+    LimitHP: 500
+    LimitMP: 300
+    Limitpower: 200
+    Limittechnique: 100
+    Limitprayer: 200
+    Limitagility: 100
+    Limitluck: 100

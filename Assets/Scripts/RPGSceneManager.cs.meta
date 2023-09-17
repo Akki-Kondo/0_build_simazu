@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbbde4752e28385468273f7b594f0872
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - ActiveMap: {instanceID: 0}
+  - MessageWindow: {instanceID: 0}
+  - playerControls: {fileID: -944628639613478452, guid: 225ed0ffd30699c4aa7b7bbf70c6cb18, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

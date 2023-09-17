@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3405493995
+    locked: 0
+  - name: NoneObjects
+    uniqueID: 297633443
+    locked: 0
+  - name: Objects
+    uniqueID: 1674107665
+    locked: 0
+  - name: EventBox
+    uniqueID: 1215942817
+    locked: 0
+  - name: NPC
+    uniqueID: 1505330525
+    locked: 0
+  - name: Player
+    uniqueID: 3871974255
+    locked: 0
+  - name: Hideroad
+    uniqueID: 2219550991
+    locked: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2fb5da2e5f53c54485f515e1ad4ed1c, type: 3}
+  m_Name: Kataate
+  m_EditorClassIdentifier: 
+  Name: "\u80A9\u3042\u3066"
+  Description: "Defense\u304C2\u4E0A\u304C\u308B"
+  Money: 20
+  Kind: 1
+  Power: 2
